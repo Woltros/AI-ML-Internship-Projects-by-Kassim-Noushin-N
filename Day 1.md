@@ -81,7 +81,7 @@ Day 1 Completed Successfully!
 
 ```
 AI-ML-Internship/
-│── README.md
+│── Day 1.md
 │── hello.py
 ```
 
