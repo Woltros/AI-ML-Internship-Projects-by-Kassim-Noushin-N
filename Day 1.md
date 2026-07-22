@@ -67,7 +67,7 @@ Day 1 Completed Successfully!
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 * Python
 * Visual Studio Code
