@@ -1,7 +1,7 @@
 # AI-ML-Internship-Projects-by-Kassim-Noushin-N
 # AI & ML Internship – Day 1
 
-## 👨‍💻 Intern Details
+## Intern Details
 
 **Name:** Kassim Noushin N
 **Internship:** AI & Machine Learning Internship
@@ -9,15 +9,15 @@
 
 ---
 
-# 📅 Day 1: Environment Setup
+# Day 1: Environment Setup
 
-## 🎯 Objective
+##  Objective
 
 Set up the complete development environment required for the AI & ML Internship and understand the fundamentals of Artificial Intelligence, Machine Learning, and Data Science.
 
 ---
 
-## ✅ Tasks Completed
+## Tasks Completed
 
 * Installed Python
 * Installed Visual Studio Code (VS Code)
@@ -33,7 +33,7 @@ Set up the complete development environment required for the AI & ML Internship 
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 ### Artificial Intelligence (AI)
 
@@ -49,7 +49,7 @@ Data Science is the process of collecting, cleaning, analyzing, and visualizing 
 
 ---
 
-## 🖥️ First Python Program
+## First Python Program
 
 ```python
 print("Hello, AI & ML Internship!")
@@ -77,7 +77,7 @@ Day 1 Completed Successfully!
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 AI-ML-Internship/
@@ -87,12 +87,12 @@ AI-ML-Internship/
 
 ---
 
-## ✅ Day 1 Outcome
+## Day 1 Outcome
 
 The development environment has been successfully configured, and I am ready to begin building AI & Machine Learning projects during this internship.
 
 ---
 
-### 🚀 Looking Forward
+### Looking Forward
 
 Excited to continue learning Python, Data Analysis, Machine Learning, and Artificial Intelligence through real-world projects during this internship at Codomax Digital Solutions.
