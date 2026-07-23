@@ -42,9 +42,11 @@ Throughout this task, I explored Python syntax, practiced problem-solving, and o
 Day2/
 │── variables.py
 │── datatypes.py
-│── operators.py
-│── conditions.py
-│── loops.py
+│── arithmetic_operator.py
+│── comparison_operator.py
+│── logical_operator.py
+│── for_loop.py
+│── while_loop.py
 │── functions.py
 │── calculator.py
 │── even_odd.py
