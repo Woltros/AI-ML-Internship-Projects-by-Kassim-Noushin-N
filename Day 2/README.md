@@ -17,7 +17,6 @@ Throughout this task, I explored Python syntax, practiced problem-solving, and o
 - Learn Python Variables
 - Understand Python Data Types
 - Practice Python Operators
-- Implement Conditional Statements
 - Work with Loops
 - Create and Use Functions
 - Develop Simple Python Programs
@@ -29,7 +28,6 @@ Throughout this task, I explored Python syntax, practiced problem-solving, and o
 - Variables
 - Data Types
 - Operators
-- Conditional Statements (if, elif, else)
 - Loops (for & while)
 - Functions
 - Basic Python Programming
@@ -66,7 +64,7 @@ Day2/
 
 # Learning Outcome
 
-By completing Day 2, I gained a solid understanding of Python fundamentals, including variables, data types, operators, conditional statements, loops, and functions. These concepts are fundamental for writing Python programs and will serve as the foundation for upcoming AI, Machine Learning, and Data Science projects throughout this internship.
+By completing Day 2, I gained a solid understanding of Python fundamentals, including variables, data types, operators, loops, and functions. These concepts are fundamental for writing Python programs and will serve as the foundation for upcoming AI, Machine Learning, and Data Science projects throughout this internship.
 
 ---
 
