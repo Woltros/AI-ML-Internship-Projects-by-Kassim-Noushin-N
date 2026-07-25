@@ -56,8 +56,7 @@ Pandas is widely used because it:
 # Project Structure
 
 ```
-Day4/
-│── pandas_intro.py
+Day4
 │── import_pandas.py
 │── load_dataset.py
 │── view_dataset.py
