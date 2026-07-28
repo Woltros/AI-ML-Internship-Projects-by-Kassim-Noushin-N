@@ -1,0 +1,6 @@
+print("Machine Learning is a branch of Artificial Intelligence.")
+print("It enables computers to learn from data and make predictions.")
+print("Today's topics:")
+print("1. Supervised Learning")
+print("2. Train-Test Split")
+print("3. Linear Regression")
