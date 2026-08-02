@@ -1,8 +1,8 @@
-# 📘 AI & ML Internship – Day 12: Project Improvement
+# AI & ML Internship – Day 12: Project Improvement
 
 ---
 
-# 📖 Introduction
+# Introduction
 
 This repository contains the work completed for **Day 12** of my AI & Machine Learning Internship at **Codomax Digital Solutions**.
 
@@ -12,19 +12,52 @@ These improvements make the project easier to understand, maintain, and collabor
 
 ---
 
-# 🌟 Tasks Performed
+# Tasks Performed
 
-* Organized project files into a proper folder structure.
-* Added comments to improve code readability.
-* Improved notebook formatting with clear headings and sections.
-* Maintained consistent file naming conventions.
-* Updated the project documentation (README.md).
-* Removed unnecessary or duplicate files.
-* Improved overall project presentation.
+### Day 1 – Environment Setup
+- Installed Python, VS Code, Jupyter Notebook and Git.
+- Created GitHub repository and ran the first Python program.
 
+### Day 2 – Python Basics
+- Learned variables, data types, operators, loops and functions.
+- Developed basic Python programs.
+
+### Day 3 – NumPy Fundamentals
+- Learned NumPy arrays, indexing and mathematical operations.
+- Performed array-based calculations.
+
+### Day 4 – Pandas
+- Imported Pandas and loaded the student score dataset.
+- Explored rows, columns and dataset information.
+
+### Day 5 – Data Cleaning
+- Handled missing values.
+- Removed duplicate records.
+- Analyzed dataset statistics.
+
+### Day 6 – Data Visualization
+- Created scatter plots, bar charts and line charts using Matplotlib.
+
+### Day 7 – Machine Learning Basics
+- Learned supervised learning, train-test split and Linear Regression concepts.
+
+### Day 8 – Model Building
+- Built and trained a Linear Regression model using Scikit-learn.
+
+### Day 9 – Prediction
+- Used the trained model to predict student scores based on study hours.
+
+### Day 10 – Model Evaluation
+- Evaluated the model using MAE, MSE and R² Score.
+
+### Day 11 – Prediction Application
+- Developed a Python application to predict student scores based on user input.
+
+### Day 12 – Project Improvement
+- Improved project structure, organized files, added comments and updated documentation.
 ---
 
-# 📚 Topics Covered
+# Topics Covered
 
 * Code Documentation
 * Project Organization
@@ -35,7 +68,7 @@ These improvements make the project easier to understand, maintain, and collabor
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 AI-ML-Internship/
@@ -61,7 +94,7 @@ AI-ML-Internship/
 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used
 
 * Python
 * Pandas
@@ -75,13 +108,13 @@ AI-ML-Internship/
 
 ---
 
-# 🎯 Learning Outcome
+# Learning Outcome
 
 By completing Day 12, I learned how to organize project files, improve code readability with comments, maintain proper documentation, and create a professional project structure suitable for GitHub and collaborative development.
 
 ---
 
-# 🚀 Conclusion
+# Conclusion
 
 Project organization and documentation are essential parts of software development. By improving the structure, formatting, and readability of my project, I created a more professional and maintainable AI & Machine Learning project.
 
